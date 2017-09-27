@@ -22,13 +22,13 @@ Com isso, seu sistema já está pronto para criar e utilizar projetos Ionic.
 Com tudo pronto, vamos dá um `git clone` em nosso projeto, escolha uma pasta de sua preferência e execute o comando abaixo:
 
 ```bash
-$ git clone https://github.com/jonathan1313/HelloIonic.git
+$ git clone https://github.com/WesleySousa/HelloIonic.git
 ```
 
-Acesse a pasta `helloionic` que foi criada na pasta que você escolheu, o comando para isso é:
+Acesse a pasta `HelloIonic` que foi criada na pasta que você escolheu, o comando para isso é:
 
 ```bash
-$ cd helloionic
+$ cd HelloIonic
 ```
 
 Agora dentro da pasta, podemos servir nossa aplicação no browser, com o comando:
@@ -36,5 +36,3 @@ Agora dentro da pasta, podemos servir nossa aplicação no browser, com o comand
 ```bash
 $ ionic serve
 ```
-
-Com isso, nosso projeto já está rodando e você está pronto para os estudos. ;) 
